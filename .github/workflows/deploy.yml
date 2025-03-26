@@ -1,6 +1,7 @@
 name: Deploy to GitHub Pages
 
 on:
+  # Run workflow for pushes to main branch and manual triggers
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -31,7 +32,15 @@ jobs:
         run: npm install --progress=false
         
       - name: Build
-        run: npm run build
+        run: |
+          echo "Building site for GitHub Pages deployment"
+          npm run build
+          # Ensure .nojekyll is in the build output
+          touch dist/.nojekyll
+          echo "Listing build output files:"
+          ls -la dist
+          echo "Contents of dist/index.html:"
+          cat dist/index.html
         
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -4,10 +4,9 @@ import react from '@vitejs/plugin-react'
 import sassConfig from './sass.config'
 import { readFileSync } from 'node:fs'
 
-// Get the repository name from package.json for GitHub Pages
-const packageJson = JSON.parse(readFileSync('./package.json', 'utf-8'))
-const repoName = packageJson.name.split('.github.io')[0]
-const baseConfig = process.env.GITHUB_ACTIONS ? `/${repoName}/` : '/'
+// For GitHub Pages user site (username.github.io), we need to use '/' as the base
+// The environment variable check is not needed for user GitHub Pages sites
+const baseConfig = '/'
 
 export default defineConfig({
   base: baseConfig,
