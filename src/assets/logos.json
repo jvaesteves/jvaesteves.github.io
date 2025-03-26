@@ -1,0 +1,390 @@
+[
+    {
+        "logo_file": "activemq.svg",
+        "alt_text": "Apache ActiveMQ Logo"
+    },
+    {
+        "logo_file": "akka.svg",
+        "alt_text": "Akka Framework Logo"
+    },
+    {
+        "logo_file": "android.svg",
+        "alt_text": "Android Logo"
+    },
+    {
+        "logo_file": "angular.svg",
+        "alt_text": "Angular Framework Logo"
+    },
+    {
+        "logo_file": "ansible.svg",
+        "alt_text": "Ansible Automation Logo"
+    },
+    {
+        "logo_file": "arangodb.svg",
+        "alt_text": "ArangoDB Logo"
+    },
+    {
+        "logo_file": "arduino.svg",
+        "alt_text": "Arduino Logo"
+    },
+    {
+        "logo_file": "aws.svg",
+        "alt_text": "Amazon Web Services Logo"
+    },
+    {
+        "logo_file": "azure.svg",
+        "alt_text": "Microsoft Azure Logo"
+    },
+    {
+        "logo_file": "beats.svg",
+        "alt_text": "Elastic Beats Logo"
+    },
+    {
+        "logo_file": "cassandra.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "centos.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "chef.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "consul.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "cpp.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "crio.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "css.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "d3.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "debian.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "digitalocean.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "django.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "docker.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "drill.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "elasticsearch.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "elixir.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "flask.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "flink.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "flume.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "gcp.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "gingonic.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "git.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "github.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "gitlab.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "golang.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "grafana.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "graphql.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "hadoop.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "haskell.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "helm.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "heron.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "hive.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "html.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "impala.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "influxdb.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "ios.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "istio.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "java.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "javascript.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "kafka.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "keras.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "kibana.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "kotlin.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "kubernetes.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "logstash.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "lua.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "mongodb.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "netcore.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "nginx.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "nifi.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "nodejs.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "openshift.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "phoenix.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "pig.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "postgres.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "postman.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "presto.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "prometheus.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "pulsar.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "puppet.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "python.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "rabbitmq.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "raspberrypi.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "react.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "redhat.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "redis.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "rkt.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "rocketmq.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "ruby.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "rubyonrails.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "rust.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "sass.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "scala.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "spark.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "spring.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "sqlserver.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "sqoop.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "storm.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "swift.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "tensorflow.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "terraform.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "typescript.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "ubuntu.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "unity.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "vagrant.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "vault.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "vue.svg",
+        "alt_text": "Lorem Ipsum"
+    },
+    {
+        "logo_file": "zookeeper.svg",
+        "alt_text": "Lorem Ipsum"
+    }
+]

@@ -1,0 +1,7 @@
+.hex-row {
+  clear: left;
+
+  &:nth-child(even) {
+    margin-left: 54px;
+  }
+} 
